@@ -1,5 +1,6 @@
 # Node.js-P-rofile-Generator
-
+## Description.
+### a command-line application that accepts user input, generates an HTML that displays a nicely formatted team roster based on user input.
   ## License: MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   ### https://choosealicense.com/licenses/mit/
   ## Table of Contents:
