@@ -1,0 +1,29 @@
+{
+  "name": "node.js-p-rofile-generator",
+  "version": "1.0.0",
+  "description": "Using Node.js and npm commands this and HTML file that generates profile for differents employee positions",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo180/Node.js-P-rofile-Generator.git"
+  },
+  "keywords": [
+    "Node.js",
+    "js",
+    "javascript",
+    "project",
+    "generator"
+  ],
+  "author": "Hugo Rubio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugo180/Node.js-P-rofile-Generator/issues"
+  },
+  "homepage": "https://github.com/hugo180/Node.js-P-rofile-Generator#readme"
+}
